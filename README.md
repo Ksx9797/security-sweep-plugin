@@ -110,17 +110,11 @@ Python, JavaScript/TypeScript, Java/Kotlin, Go, Ruby, PHP, C#, Swift, Dart/Flutt
 
 ## Installation
 
-### From GitHub (recommended)
+### As a plugin
 
 ```shell
-/plugin marketplace add onomeaj/security-sweep-plugin
+/plugin marketplace add Onome-AJ/security-sweep-plugin
 /plugin install security-sweep@security-sweep-marketplace
-```
-
-### From the Official Marketplace
-
-```shell
-/plugin install security-sweep
 ```
 
 ### Manual (copy to personal skills)
